@@ -1,5 +1,22 @@
 # Telegram Unsplash Bot
 
+<!-- codex-repo-note:start -->
+## Справка о репозитории / Repository note
+
+**RU:** бот для тестовых и автоматизационных сценариев 2026 года.
+
+**EN:** a bot for 2026 testing and automation scenarios.
+
+**Статус / Status:** активный проект 2026 года; ожидает рефакторинга и переименования. / active 2026 project; refactoring and repository rename are pending.
+
+**Текущее имя / Current name:** `testing_2026_bot`
+
+**Плановое имя / Planned name:** `testing-2026-bot`
+
+**Topics:** `automation`, `cleanup-pending`, `needs-rename`, `needs-review`, `python`, `status-active`, `testing`, `type-bot`
+<!-- codex-repo-note:end -->
+
+
 Простой Telegram-бот на Python, который отправляет случайные фотографии из Unsplash по запросу пользователя.
 
 Бот предназначен для обучения и практики:
